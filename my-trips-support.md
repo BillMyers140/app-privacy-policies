@@ -53,7 +53,7 @@ If the app isn't behaving as expected:
 
 ### Contact and Feedback
 
-For questions, bug reports, or suggestions, please use the developer contact information provided on the My Trips App Store listing.
+For questions, bug reports, or suggestions about My Trips – Travel Tracker, please email billmyers140@gmail.com.
 
 ### Privacy
 
