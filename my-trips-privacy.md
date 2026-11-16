@@ -63,3 +63,9 @@ Any updates will be published on this page.
 ## Contact
 
 For questions about this privacy policy, please contact the developer using the support contact information provided on the application's App Store listing.
+
+## Contact Information
+
+If you have questions about this privacy policy or how My Trips – Travel Tracker handles your information, please contact:
+
+billmyers140@gmail.com
